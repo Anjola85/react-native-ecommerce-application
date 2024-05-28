@@ -1,0 +1,65 @@
+import { Platform, StyleSheet } from "react-native";
+
+export const addressScreenStyles = StyleSheet.create({
+  container: {
+    flex: 1,
+    paddingHorizontal: 20,
+  },
+  title: {
+    fontSize: 16,
+    fontWeight: "bold",
+    letterSpacing: 0.5,
+    // marginBottom: 15,
+    alignSelf: "center",
+    marginLeft: 50,
+  },
+  subtitle: {
+    fontSize: 14,
+    fontWeight: "bold",
+    alignSelf: "flex-start",
+    letterSpacing: 0.5,
+    marginBottom: 15,
+    marginTop: 20,
+  },
+  searchBox: {
+    height: 43,
+    backgroundColor: "rgba(196,196,196,0.21)",
+    paddingLeft: 10,
+    borderRadius: 5,
+    width: "100%",
+    marginBottom: 20,
+  },
+  button: {
+    backgroundColor: "white",
+    width: 35,
+    height: 35,
+    borderRadius: 20,
+    justifyContent: "center",
+    alignItems: "center",
+    button: {
+      backgroundColor: "white",
+      width: 40,
+      height: 40,
+      borderRadius: 20,
+      justifyContent: "center",
+      alignItems: "center",
+      shadow: {
+        borderRadius: 20,
+        shadowColor: "#000",
+        shadowOffset: { width: 0, height: 2 },
+        shadowOpacity: 0.25,
+        shadowRadius: 3.84,
+        elevation: 5,
+        overflow: Platform.OS === "android" ? "hidden" : "visible",
+      },
+    },
+  },
+  headerContainer: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "flex-start",
+    paddingHorizontal: 20,
+    width: "100%",
+    marginBottom: 30,
+  },
+});

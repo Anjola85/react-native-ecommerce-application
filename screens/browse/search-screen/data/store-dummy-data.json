@@ -1,0 +1,1467 @@
+{
+  "status": true,
+  "message": "businesses fetched successfully",
+  "payload": {
+    "result": {
+      "size": 12,
+      "businessList": [
+        {
+          "id": 1,
+          "name": "micchys african caribbean market",
+          "description": "this is a dummy description for the business.",
+          "address": {
+            "id": 1,
+            "isPrimary": true,
+            "unit": "",
+            "street": "3117 Dufferin St B, North York, ON M6A 2S9, Canada",
+            "city": "Toronto",
+            "province": "Ontario",
+            "postalCode": "M6A 2S9",
+            "country": "Canada",
+            "latitude": 43.7166171,
+            "longitude": -79.4549519
+          },
+          "email": "",
+          "mobile": {
+            "id": 2,
+            "isPrimary": true,
+            "countryCode": "+1",
+            "phoneNumber": "4165463807",
+            "isoType": "+1"
+          },
+          "schedule": {
+            "friday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "monday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "sunday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 19,
+                "minute": 0
+              }
+            },
+            "tuesday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "saturday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "thursday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "wednesday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            }
+          },
+          "website": "http://www.micchysafricancaribbeanmarket.com/",
+          "countries": {
+            "countryList": [
+              {
+                "id": 1,
+                "name": "ghana"
+              }
+            ],
+            "size": 1
+          },
+          "regions": {
+            "regionList": [
+              {
+                "id": 2,
+                "name": "south africa"
+              }
+            ],
+            "size": 1
+          },
+          "businessType": "grocery",
+          "rating": "4.8",
+          "backgroundImage": "",
+          "profileImage": "",
+          "createdAt": "1709705791"
+        },
+        {
+          "id": 2,
+          "name": "lahry internationl inc",
+          "description": "this is a dummy description for the business.",
+          "address": {
+            "id": 2,
+            "isPrimary": true,
+            "unit": "",
+            "street": "1179 Finch Ave W Unit 4, North York, ON M3J 2G1, Canada",
+            "city": "Toronto",
+            "province": "Ontario",
+            "postalCode": "M3J 2G1",
+            "country": "Canada",
+            "latitude": 43.7651511,
+            "longitude": -79.4819251
+          },
+          "email": "",
+          "mobile": {
+            "id": 1,
+            "isPrimary": true,
+            "countryCode": "+1",
+            "phoneNumber": "4164575285",
+            "isoType": "+1"
+          },
+          "schedule": {
+            "friday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 8,
+                "minute": 30
+              }
+            },
+            "monday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 18,
+                "minute": 30
+              }
+            },
+            "sunday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            "tuesday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 18,
+                "minute": 30
+              }
+            },
+            "saturday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            "thursday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 18,
+                "minute": 30
+              }
+            },
+            "wednesday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 18,
+                "minute": 30
+              }
+            }
+          },
+          "website": "https://www.quiikmart.com/",
+          "countries": {
+            "countryList": [
+              {
+                "id": 1,
+                "name": "ghana"
+              }
+            ],
+            "size": 1
+          },
+          "regions": {
+            "regionList": [
+              {
+                "id": 2,
+                "name": "south africa"
+              }
+            ],
+            "size": 1
+          },
+          "businessType": "grocery",
+          "rating": "3.9",
+          "backgroundImage": "",
+          "profileImage": "",
+          "createdAt": "1709705791"
+        },
+        {
+          "id": 3,
+          "name": "enny african foods store",
+          "description": "this is a dummy description for the business.",
+          "address": {
+            "id": 3,
+            "isPrimary": true,
+            "unit": "",
+            "street": "1179 Finch Ave W Unit 4, North York, ON M3J 2G1, Canada",
+            "city": "Toronto",
+            "province": "Ontario",
+            "postalCode": "M3J 2G1",
+            "country": "Canada",
+            "latitude": 43.7651511,
+            "longitude": -79.4819251
+          },
+          "email": "",
+          "mobile": {
+            "id": 11,
+            "isPrimary": true,
+            "countryCode": "+1",
+            "phoneNumber": "6475627379",
+            "isoType": "+1"
+          },
+          "schedule": {
+            "friday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "monday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "sunday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 19,
+                "minute": 0
+              }
+            },
+            "tuesday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "saturday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "thursday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "wednesday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            }
+          },
+          "website": "https://ennyafricanfoods.com/",
+          "countries": {
+            "countryList": [
+              {
+                "id": 1,
+                "name": "ghana"
+              }
+            ],
+            "size": 1
+          },
+          "regions": {
+            "regionList": [
+              {
+                "id": 2,
+                "name": "south africa"
+              }
+            ],
+            "size": 1
+          },
+          "businessType": "grocery",
+          "rating": "4.5",
+          "backgroundImage": "",
+          "profileImage": "",
+          "createdAt": "1709705791"
+        },
+        {
+          "id": 4,
+          "name": "correct african food market",
+          "description": "this is a dummy description for the business.",
+          "address": {
+            "id": 5,
+            "isPrimary": true,
+            "unit": "",
+            "street": "880 Wilson Ave, North York, ON M3K 1E7, Canada",
+            "city": "Toronto",
+            "province": "Ontario",
+            "postalCode": "M3K 1E7",
+            "country": "Canada",
+            "latitude": 43.7305813,
+            "longitude": -79.4684406
+          },
+          "email": "",
+          "mobile": {
+            "id": 3,
+            "isPrimary": true,
+            "countryCode": "+1",
+            "phoneNumber": "6477675771",
+            "isoType": "+1"
+          },
+          "schedule": {
+            "friday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "monday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "sunday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "tuesday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "saturday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "thursday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "wednesday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            }
+          },
+          "website": "http://correctafrofoods.com/",
+          "countries": {
+            "countryList": [
+              {
+                "id": 1,
+                "name": "ghana"
+              }
+            ],
+            "size": 1
+          },
+          "regions": {
+            "regionList": [
+              {
+                "id": 2,
+                "name": "south africa"
+              }
+            ],
+            "size": 1
+          },
+          "businessType": "grocery",
+          "rating": "4.7",
+          "backgroundImage": "",
+          "profileImage": "",
+          "createdAt": "1709705791"
+        },
+        {
+          "id": 5,
+          "name": "h-mart finch",
+          "description": "this is a dummy description for the business.",
+          "address": {
+            "id": 6,
+            "isPrimary": true,
+            "unit": "",
+            "street": "5545 Yonge St, North York, ON M2N 7L3, Canada",
+            "city": "Toronto",
+            "province": "Ontario",
+            "postalCode": "M2N 7L3",
+            "country": "Canada",
+            "latitude": 43.7786299,
+            "longitude": -79.4148867
+          },
+          "email": "",
+          "mobile": {
+            "id": 7,
+            "isPrimary": true,
+            "countryCode": "+1",
+            "phoneNumber": "4162270300",
+            "isoType": "+1"
+          },
+          "schedule": {
+            "friday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            "monday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            "sunday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            "tuesday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            "saturday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            "thursday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 0,
+                "minute": 0
+              }
+            },
+            "wednesday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 0,
+                "minute": 0
+              }
+            }
+          },
+          "website": "http://www.hmartca.com/",
+          "countries": {
+            "countryList": [
+              {
+                "id": 1,
+                "name": "ghana"
+              }
+            ],
+            "size": 1
+          },
+          "regions": {
+            "regionList": [
+              {
+                "id": 2,
+                "name": "south africa"
+              }
+            ],
+            "size": 1
+          },
+          "businessType": "grocery",
+          "rating": "4.2",
+          "backgroundImage": "",
+          "profileImage": "",
+          "createdAt": "1709705791"
+        },
+        {
+          "id": 6,
+          "name": "dominion african groceries supermarket",
+          "description": "this is a dummy description for the business.",
+          "address": {
+            "id": 7,
+            "isPrimary": true,
+            "unit": "",
+            "street": "1300 Finch Ave W, North York, ON M3J 3K2, Canada",
+            "city": "Toronto",
+            "province": "Ontario",
+            "postalCode": "M3J 3K2",
+            "country": "Canada",
+            "latitude": 43.7649631,
+            "longitude": -79.4900151
+          },
+          "email": "",
+          "mobile": {
+            "id": 9,
+            "isPrimary": true,
+            "countryCode": "+1",
+            "phoneNumber": "6477874163",
+            "isoType": "+1"
+          },
+          "schedule": {
+            "friday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "monday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "sunday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            "tuesday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "saturday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "thursday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "wednesday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            }
+          },
+          "website": "https://www.quiikmart.com/",
+          "countries": {
+            "countryList": [
+              {
+                "id": 1,
+                "name": "ghana"
+              }
+            ],
+            "size": 1
+          },
+          "regions": {
+            "regionList": [
+              {
+                "id": 2,
+                "name": "south africa"
+              }
+            ],
+            "size": 1
+          },
+          "businessType": "grocery",
+          "rating": "5",
+          "backgroundImage": "",
+          "profileImage": "",
+          "createdAt": "1709705791"
+        },
+        {
+          "id": 7,
+          "name": "tripplee african and caribbean market",
+          "description": "this is a dummy description for the business.",
+          "address": {
+            "id": 4,
+            "isPrimary": true,
+            "unit": "",
+            "street": "45 Four Winds Dr, North York, ON M3J 1K7, Canada",
+            "city": "Toronto",
+            "province": "Ontario",
+            "postalCode": "M3J 1K7",
+            "country": "Canada",
+            "latitude": 43.7632339,
+            "longitude": -79.4991241
+          },
+          "email": "",
+          "mobile": {
+            "id": 5,
+            "isPrimary": true,
+            "countryCode": "+1",
+            "phoneNumber": "4372441490",
+            "isoType": "+1"
+          },
+          "schedule": {
+            "friday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "monday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "sunday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "tuesday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "saturday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "thursday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            },
+            "wednesday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 22,
+                "minute": 0
+              }
+            }
+          },
+          "website": "https://www.quiikmart.com/",
+          "countries": {
+            "countryList": [
+              {
+                "id": 1,
+                "name": "ghana"
+              }
+            ],
+            "size": 1
+          },
+          "regions": {
+            "regionList": [
+              {
+                "id": 2,
+                "name": "south africa"
+              }
+            ],
+            "size": 1
+          },
+          "businessType": "grocery",
+          "rating": "4.6",
+          "backgroundImage": "",
+          "profileImage": "",
+          "createdAt": "1709705791"
+        },
+        {
+          "id": 8,
+          "name": "the south african store",
+          "description": "this is a dummy description for the business.",
+          "address": {
+            "id": 8,
+            "isPrimary": true,
+            "unit": "",
+            "street": "3889 Bathurst St, North York, ON M3H 3N4, Canada",
+            "city": "Toronto",
+            "province": "Ontario",
+            "postalCode": "M3H 3N4",
+            "country": "Canada",
+            "latitude": 43.7423266,
+            "longitude": -79.4348656
+          },
+          "email": "",
+          "mobile": {
+            "id": 10,
+            "isPrimary": true,
+            "countryCode": "+1",
+            "phoneNumber": "4162237011",
+            "isoType": "+1"
+          },
+          "schedule": {
+            "friday": {
+              "open": {
+                "hour": 9,
+                "minute": 30
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            "monday": {
+              "open": {
+                "hour": 9,
+                "minute": 30
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            "sunday": {
+              "open": {
+                "hour": 9,
+                "minute": 30
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            "tuesday": {
+              "open": {
+                "hour": 9,
+                "minute": 30
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            "saturday": {
+              "open": {
+                "hour": 9,
+                "minute": 30
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            "thursday": {
+              "open": {
+                "hour": 9,
+                "minute": 30
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            "wednesday": {
+              "open": {
+                "hour": 9,
+                "minute": 30
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            }
+          },
+          "website": "http://southafricanstore.ca/",
+          "countries": {
+            "countryList": [
+              {
+                "id": 1,
+                "name": "ghana"
+              }
+            ],
+            "size": 1
+          },
+          "regions": {
+            "regionList": [
+              {
+                "id": 2,
+                "name": "south africa"
+              }
+            ],
+            "size": 1
+          },
+          "businessType": "grocery",
+          "rating": "4.3",
+          "backgroundImage": "",
+          "profileImage": "",
+          "createdAt": "1709705791"
+        },
+        {
+          "id": 9,
+          "name": "amazing grace superstore",
+          "description": "this is a dummy description for the business.",
+          "address": {
+            "id": 9,
+            "isPrimary": true,
+            "unit": "",
+            "street": "1290 Finch Ave W Unit #17, North York, ON M3J 3K2, Canada",
+            "city": "Toronto",
+            "province": "Ontario",
+            "postalCode": "M3J 3K2",
+            "country": "Canada",
+            "latitude": 43.765215,
+            "longitude": -79.4895111
+          },
+          "email": "",
+          "mobile": {
+            "id": 6,
+            "isPrimary": true,
+            "countryCode": "+1",
+            "phoneNumber": "6477017921",
+            "isoType": "+1"
+          },
+          "schedule": {
+            "friday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "monday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "sunday": {
+              "open": {
+                "hour": 1,
+                "minute": 0
+              },
+              "close": {
+                "hour": 18,
+                "minute": 0
+              }
+            },
+            "tuesday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "saturday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            "thursday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            "wednesday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 21,
+                "minute": 0
+              }
+            }
+          },
+          "website": "https://amazinggracesuperstore.com/",
+          "countries": {
+            "countryList": [
+              {
+                "id": 1,
+                "name": "ghana"
+              }
+            ],
+            "size": 1
+          },
+          "regions": {
+            "regionList": [
+              {
+                "id": 2,
+                "name": "south africa"
+              }
+            ],
+            "size": 1
+          },
+          "businessType": "grocery",
+          "rating": "5",
+          "backgroundImage": "",
+          "profileImage": "",
+          "createdAt": "1709705791"
+        },
+        {
+          "id": 10,
+          "name": "genesis african food market",
+          "description": "this is a dummy description for the business.",
+          "address": {
+            "id": 11,
+            "isPrimary": true,
+            "unit": "",
+            "street": "1181 Finch Ave W #16, North York, ON M3J 2G2, Canada",
+            "city": "Toronto",
+            "province": "Ontario",
+            "postalCode": "M3J 2G2",
+            "country": "Canada",
+            "latitude": 43.7650349,
+            "longitude": -79.482536
+          },
+          "email": "",
+          "mobile": {
+            "id": 4,
+            "isPrimary": true,
+            "countryCode": "+1",
+            "phoneNumber": "4167412610",
+            "isoType": "+1"
+          },
+          "schedule": {
+            "friday": {
+              "open": {
+                "hour": 11,
+                "minute": 0
+              },
+              "close": {
+                "hour": 18,
+                "minute": 0
+              }
+            },
+            "monday": {
+              "open": {
+                "hour": 11,
+                "minute": 0
+              },
+              "close": {
+                "hour": 18,
+                "minute": 0
+              }
+            },
+            "sunday": {
+              "open": {
+                "hour": 9,
+                "minute": 0
+              },
+              "close": {
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            "tuesday": {
+              "open": {
+                "hour": 11,
+                "minute": 0
+              },
+              "close": {
+                "hour": 18,
+                "minute": 0
+              }
+            },
+            "saturday": {
+              "open": {
+                "hour": 11,
+                "minute": 0
+              },
+              "close": {
+                "hour": 17,
+                "minute": 0
+              }
+            },
+            "thursday": {
+              "open": {
+                "hour": 11,
+                "minute": 0
+              },
+              "close": {
+                "hour": 18,
+                "minute": 0
+              }
+            },
+            "wednesday": {
+              "open": {
+                "hour": 11,
+                "minute": 0
+              },
+              "close": {
+                "hour": 18,
+                "minute": 0
+              }
+            }
+          },
+          "website": "https://www.quiikmart.com/",
+          "countries": {
+            "countryList": [
+              {
+                "id": 1,
+                "name": "ghana"
+              }
+            ],
+            "size": 1
+          },
+          "regions": {
+            "regionList": [
+              {
+                "id": 2,
+                "name": "south africa"
+              }
+            ],
+            "size": 1
+          },
+          "businessType": "grocery",
+          "rating": "3.9",
+          "backgroundImage": "",
+          "profileImage": "",
+          "createdAt": "1709705791"
+        },
+        {
+          "id": 11,
+          "name": "dv african caribbean food market",
+          "description": "this is a dummy description for the business.",
+          "address": {
+            "id": 10,
+            "isPrimary": true,
+            "unit": "",
+            "street": "1288 Wilson Ave, North York, ON M3M 3G4, Canada",
+            "city": "Toronto",
+            "province": "Ontario",
+            "postalCode": "M3M 3G4",
+            "country": "Canada",
+            "latitude": 43.7244275,
+            "longitude": -79.493963
+          },
+          "email": "",
+          "mobile": {
+            "id": 8,
+            "isPrimary": true,
+            "countryCode": "+1",
+            "phoneNumber": "6477679038",
+            "isoType": "+1"
+          },
+          "schedule": {
+            "friday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            "monday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            "sunday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 16,
+                "minute": 0
+              }
+            },
+            "tuesday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            "saturday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            "thursday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            "wednesday": {
+              "open": {
+                "hour": 10,
+                "minute": 0
+              },
+              "close": {
+                "hour": 20,
+                "minute": 0
+              }
+            }
+          },
+          "website": "http://www.dvafricancaribbeanmarkets.com/",
+          "countries": {
+            "countryList": [
+              {
+                "id": 1,
+                "name": "ghana"
+              }
+            ],
+            "size": 1
+          },
+          "regions": {
+            "regionList": [
+              {
+                "id": 2,
+                "name": "south africa"
+              }
+            ],
+            "size": 1
+          },
+          "businessType": "grocery",
+          "rating": "5",
+          "backgroundImage": "",
+          "profileImage": "",
+          "createdAt": "1709705791"
+        },
+        {
+          "id": 12,
+          "name": "check",
+          "description": "ssdsd",
+          "address": {
+            "id": 12,
+            "isPrimary": true,
+            "unit": "33",
+            "street": "ssss",
+            "city": "sss",
+            "province": "ssssssssss",
+            "postalCode": "ssssss",
+            "country": "Canada",
+            "latitude": 56.130366,
+            "longitude": -106.346771
+          },
+          "email": "checr2@gmail.com",
+          "mobile": {
+            "id": 12,
+            "isPrimary": true,
+            "countryCode": "+1",
+            "phoneNumber": "6471121228",
+            "isoType": "CA"
+          },
+          "schedule": {
+            "friday": {
+              "open": {
+                "hour": 13,
+                "minute": 20
+              },
+              "close": {
+                "hour": 22,
+                "minute": 34
+              }
+            },
+            "monday": {
+              "open": {
+                "hour": 20,
+                "minute": 37
+              },
+              "close": {
+                "hour": 6,
+                "minute": 6
+              }
+            },
+            "sunday": {
+              "open": {
+                "hour": 11,
+                "minute": 13
+              },
+              "close": {
+                "hour": 0,
+                "minute": 22
+              }
+            },
+            "tuesday": {
+              "open": {
+                "hour": 21,
+                "minute": 31
+              },
+              "close": {
+                "hour": 6,
+                "minute": 29
+              }
+            },
+            "saturday": {
+              "open": {
+                "hour": 12,
+                "minute": 59
+              },
+              "close": {
+                "hour": 0,
+                "minute": 19
+              }
+            },
+            "thursday": {
+              "open": {
+                "hour": 21,
+                "minute": 34
+              },
+              "close": {
+                "hour": 8,
+                "minute": 30
+              }
+            },
+            "wednesday": {
+              "open": {
+                "hour": 21,
+                "minute": 56
+              },
+              "close": {
+                "hour": 12,
+                "minute": 47
+              }
+            }
+          },
+          "website": "https://whoisanjola.com/",
+          "countries": {
+            "countryList": [
+              {
+                "id": 3,
+                "name": "congo"
+              },
+              {
+                "id": 2,
+                "name": "nigeria"
+              }
+            ],
+            "size": 2
+          },
+          "regions": {
+            "regionList": [
+              {
+                "id": 1,
+                "name": "west africa"
+              }
+            ],
+            "size": 1
+          },
+          "businessType": "grocery",
+          "rating": "",
+          "backgroundImage": "",
+          "profileImage": "",
+          "createdAt": "1709705850"
+        }
+      ]
+    }
+  }
+}
